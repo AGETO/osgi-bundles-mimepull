@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Export-Package: org.jvnet.mimepull;version="1.8.0"
+Bundle-Name: %Bundle-Name
+Bundle-Vendor: %Bundle-Vendor
+Bundle-Version: 1.8.0.qualifier
+Bundle-ManifestVersion: 2
+Bundle-Description: Provides a streaming API to access attachments par
+ ts in a MIME message.
+Import-Package: org.jvnet.mimepull;version="1.8.0"
+Bundle-SymbolicName: org.jvnet.mimepull
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+
